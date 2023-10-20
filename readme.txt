@@ -3,36 +3,32 @@ E-Commerce Website
 
 Roles & Responsibilites
 Admin
-    Maintain the Website/APP Platform - MVP
+    Maintain the Website/APP Platform 
     Manage Vendor(Create,Read,Update,Delete)
     Manage Customer
     Customer care
 Vendor
-    Authentication - MVP
-    Manage Products - MVP
+    Authentication 
+    Manage Products 
         Upload
         View
-        Edit - NC TASK
-        Delete - TASK
+        Edit 
+        Delete 
     View Customer Review
     Manage Orders
-        View Orders - MVP
-        Edit Orders - TASK
+        View Orders 
+        Edit Orders 
 Customer
-    Authentication - MVP
-    View Products - MVP
+    Authentication 
+    View Products 
     Search/Sort Products
     Compare Products
     Add to cart 
-    Place Order - MVP
-    View/Track Orders - MVP - 
+    Place Order 
+    View/Track Orders 
     Add Review
 
-MVP Model
 
 
-07-May-2023
-TASKS
--------
-1. Read about PHP $_SESSION
-2. Encoding type as "multipart/form-data" - Uploading a File to server
+
+
